@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>This  is  About Page</h1>
-<h1>MVc application </h1>
+<h1>MVC application </h1>
 </body>
 </html>
