@@ -9,8 +9,11 @@
 <title>User Detail Page</title>
 </head>
 <body>
-<h1>user name: ${username }</h1>
-<h1>User Email: ${email}</h1>
-<h1>password: ${password }</h1>
+
+<h1>${Header}</h1>
+
+<h1>user name: ${user.username }</h1>
+<h1>User Email: ${user.email}</h1>
+<h1>password: ${user.password }</h1>
 </body>
 </html>
